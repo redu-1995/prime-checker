@@ -1,13 +1,13 @@
 {
   "name": "build-a-prime-number-checker-module",
   "version": "1.0.0",
-  "description": "",
+  "description": "An NPM module for checking whether a number is prime",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": ["prime", "number", "checker"],
+  "author": "Rediet Abreham",
   "license": "ISC",
   "type": "commonjs"
 }
